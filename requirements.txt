@@ -1,0 +1,3 @@
+matplotlib
+reporter
+feedparser
